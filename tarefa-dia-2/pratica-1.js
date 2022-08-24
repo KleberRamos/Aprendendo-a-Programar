@@ -10,8 +10,5 @@ minhaProfissao = "Assistente Adm Senior"
 minhaIdade = "40"
 meuLugar = "Bahhamas"
 
-console.log (meuNome)
-console.log (meuEmail)
-console.log (minhaProfissao)
-console.log (minhaIdade)
-console.log (meuLugar)
+console.log (meuNome, meuEmail, minhaProfissao, minhaIdade, meuLugar)
+
