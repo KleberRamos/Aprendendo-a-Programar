@@ -77,7 +77,7 @@ if (d[1] == 1) {
 
 let e = "Nome"
 
-// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): 
+// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): if
 if (typeof(e) == 'string') {
     console.log("Verdade! O tipo de dado da variável 'e' é uma string");
 } else {
