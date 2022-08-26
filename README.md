@@ -2,4 +2,4 @@
 
 ###### Tecnicas Básicas de aprendizado na programação da linguagem JavaScrip ######
 
-![Aviso GitHub](../../../../Users/thskb/OneDrive/%C3%81rea%20de%20Trabalho/Design%20sem%20nome.gif)
+![Aviso GitHub](../../../../Users/thskb/OneDrive/Imagens/Saved%20Pictures/Design%20sem%20nome.gif)
