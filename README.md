@@ -1,5 +1,5 @@
 <h1 align="center"> APRENDENDO A PROGRAMAR </h1>
 
-###### Tecnicas Básicas de aprendizado na programação da linguagem JavaScrip ######
+<h1 align="center"> Tecnicas Básicas de aprendizado na programação da linguagem JavaScrip </h1>
 
-![Aviso GitHub](../../../../Users/thskb/OneDrive/Imagens/Saved%20Pictures/Design%20sem%20nome.gif)
+![isto é uma imagem](https://www.canva.com/design/DAFKc8-D-2Y/D7_o05FZhucIbAva-U0qhQ/edit)
